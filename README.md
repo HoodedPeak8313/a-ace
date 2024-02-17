@@ -4,3 +4,4 @@
 ## Details of release are to be determined, I do not know how I am going to release this project
 ## If you do not have an account with this schooling system it is kind of a useless program, but maybe I will release it open source (I don't know yet) and you can look at the code
 # No code has been uploaded yet, just the website
+### it's pronounced "AYE AYE SEE EE" (it is an initialism, not an acronym)
